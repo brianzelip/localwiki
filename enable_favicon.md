@@ -4,6 +4,7 @@ enable favicon for a manual install of localwiki
 
 1. copied favicon.ico to /usr/share/localwiki/static<br/>
 	$ rsync -avz -e ssh favicon.ico USERNAME@IPaddress:/usr/share/localwiki/static
+
 2. copied favicon.ico to /usr/lib/pymodules/python2.7/sapling/themes/sapling/assets<br/>
 	$ rsync -avz -e ssh favicon.ico USERNAME@IPaddress:/usr/lib/pymodules/python2.7/sapling/themes/sapling/assets
 
