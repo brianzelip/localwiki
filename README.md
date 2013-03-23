@@ -1,4 +1,8 @@
-localwiki
-=========
+local wiki stuffs
+=================
 
-stuff to help with localwiki software
+documentation of processes in admining a localwiki
+
+http://CUwiki.net
+http://ToledoWiki.net
+http://LocalWiki.org
