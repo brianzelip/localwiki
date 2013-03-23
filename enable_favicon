@@ -1,8 +1,6 @@
 favicon
 =======
 enable favicon for a manual install of localwiki
-------------------------------------------------
-
 
 1. copied favicon.ico to /usr/share/localwiki/static
 
